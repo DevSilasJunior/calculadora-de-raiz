@@ -4,6 +4,9 @@
     padding: 0px;
 }
 form{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
     border: solid black 2px;
-    box-shadow: 20px red; 
+    box-shadow: 2px 2px 2px  red;
 }
